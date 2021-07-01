@@ -1,4 +1,4 @@
-# Luke's build of st - the simple (suckless) terminal
+# worthyox's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
 features that make it literally the best terminal emulator ever:
@@ -39,7 +39,7 @@ features that make it literally the best terminal emulator ever:
 You should have xlib header files and libharfbuzz build files installed.
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/worthyox/st
 cd st
 sudo make install
 ```
